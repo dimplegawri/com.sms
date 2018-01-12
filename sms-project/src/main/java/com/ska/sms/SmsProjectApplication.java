@@ -10,7 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 public class SmsProjectApplication {
-   // Starting point for Spring Boot app
+   
+	// Starting point for Spring Boot app
 	public static void main(String[] args) {
 		SpringApplication.run(SmsProjectApplication.class, args);
 	}
